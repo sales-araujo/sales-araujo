@@ -1,4 +1,4 @@
-## Hello World! I'm Sales, welcome to my world! 👋🧠
+## <p align="center">Hello World! I'm Sales, welcome to my world! 👋🧠<p>
 
 <div align="center">
   <a href="https://github.com/sales-araujo">
