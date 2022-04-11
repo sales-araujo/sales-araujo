@@ -10,7 +10,7 @@
   
 <div align="center">
   
-Experiência 🤓 |  Estudando 📖  |  Interesse 🧐
+Experience 🤓 |  Studying 📖  |  Interest 🧐
 :-------------: | :---------: | :---------:
 <img align="center" alt="html" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>   <img align="center" alt="css" width="80" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img align="center" alt="javascript" width="70" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" alt="nodejs" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> | <img align="center" alt="react" width="70" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" alt="typescript" width="70" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img align="center" alt="sass" width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> | <img align="center" alt="nextjs" height="70" width="70" src="https://user-images.githubusercontent.com/92824127/153253239-3438fc21-f08c-4ae3-890d-5f64868a62a4.svg" />
 
