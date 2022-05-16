@@ -7,7 +7,7 @@
 </div>
  
   
-## ⚙ Skills
+## ⚙ Hard Skills
   
 <div align="center">
 
