@@ -6,7 +6,7 @@
   <em>Sou de Olinda / Pernambuco, tenho 23 anos, e no momento estou trilhando na área de desenvolvimento de software.<em>
 </p>
 
-- 📚 Ataualmente venho estudando o Reactjs, Redux e Nextjs.
+- 📚 Atualmente venho estudando o Reactjs, Redux e Nextjs.
 - 👨🏻‍💻 Estudante da plataforma Origamid e do curso de Engenharia de Software.
 - 📨 Meu email:  sales.correia@hotmail.com
 
