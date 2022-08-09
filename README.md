@@ -3,7 +3,7 @@
 ### 📃 Sobre mim: 
 
 <p>
-  <em>Sou de Olinda / Pernambuco, tenho 23 anos, e no momento estou me trilhando na área de desenvolvedor de software.<em>
+  <em>Sou de Olinda / Pernambuco, tenho 23 anos, e no momento estou trilhando na área de desenvolvimento de software.<em>
 </p>
 
 - 📚 Ataualmente venho estudando o Reactjs, Redux e Nextjs.
